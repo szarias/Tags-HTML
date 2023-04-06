@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 77px;
+    text-align: center;
+    
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 37px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
