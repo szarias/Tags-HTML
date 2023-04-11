@@ -1,0 +1,41 @@
+.imagem{
+    width: 300px;
+    height: 300px;
+    background-image: ;
+    text-align: center;
+}
+.janela2{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(228, 0, 220);
+    text-align: center;
+}
+.janela3{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.janela4{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.janela5{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#container{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+img{
+    width: 600px;
+    height: 600px;
+}
+div a img{
+    width: 300px;
+    height: 300px;
+}
